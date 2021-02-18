@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![Niklas's GitHub stats](https://github-readme-stats.vercel.app/api?username=niklas_thiem1&show_icons=true&theme=radical)
 <!--
 **niklasthiem1/niklasthiem1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
