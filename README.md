@@ -1,7 +1,7 @@
 <h1> Hi I'm Niklas </h1>
 
-<p> I'm a Software Engineer focused on  Web Technologies, Data Science and trying new things </p>
-<p> Currently invested in learning Next.js and GraphQL </p>
+<p> I'm a Full Stack Software Engineer focused on  Web Technologies, Data Science and trying new things </p>
+
 
 
 
